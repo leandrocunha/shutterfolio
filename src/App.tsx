@@ -6,7 +6,7 @@ import './App.css'
 function App() {
 
   return (
-    <>
+    <main className="main">
       <header>
         <h1>Bianca Zanghi</h1>
         <nav>
@@ -17,7 +17,7 @@ function App() {
           <a href="#" className="navitem">Contato</a>
         </nav>
       </header>
-    </>
+    </main>
   )
 }
 
